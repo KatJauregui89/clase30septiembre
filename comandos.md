@@ -4,3 +4,5 @@ git init # Crea un repositorio local vacío en el directorio actual.
 
 git add -A -> mandar al staging area
 git commit 
+
+Otro párrafo
